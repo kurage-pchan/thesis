@@ -1,0 +1,57 @@
+{
+  "images": [
+    {
+      "id": 19,
+      "file_name": "tile_135.jpg",
+      "width": 500,
+      "height": 500
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 19,
+      "category_id": 0,
+      "bbox": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "area": 250000,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 19,
+      "category_id": 0,
+      "bbox": [
+        112,
+        278,
+        3,
+        5
+      ],
+      "area": 15,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 19,
+      "category_id": 0,
+      "bbox": [
+        231,
+        280,
+        1,
+        2
+      ],
+      "area": 2,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "Kanji"
+    }
+  ]
+}

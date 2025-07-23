@@ -1,0 +1,161 @@
+{
+  "images": [
+    {
+      "id": 16,
+      "file_name": "tile_130.jpg",
+      "width": 500,
+      "height": 500
+    }
+  ],
+  "annotations": [
+    {
+      "id": 0,
+      "image_id": 16,
+      "category_id": 0,
+      "bbox": [
+        0,
+        0,
+        500,
+        500
+      ],
+      "area": 250000,
+      "iscrowd": 0
+    },
+    {
+      "id": 1,
+      "image_id": 16,
+      "category_id": 0,
+      "bbox": [
+        293,
+        38,
+        6,
+        2
+      ],
+      "area": 12,
+      "iscrowd": 0
+    },
+    {
+      "id": 2,
+      "image_id": 16,
+      "category_id": 0,
+      "bbox": [
+        303,
+        38,
+        17,
+        2
+      ],
+      "area": 34,
+      "iscrowd": 0
+    },
+    {
+      "id": 3,
+      "image_id": 16,
+      "category_id": 0,
+      "bbox": [
+        387,
+        44,
+        3,
+        1
+      ],
+      "area": 3,
+      "iscrowd": 0
+    },
+    {
+      "id": 4,
+      "image_id": 16,
+      "category_id": 0,
+      "bbox": [
+        386,
+        47,
+        6,
+        1
+      ],
+      "area": 6,
+      "iscrowd": 0
+    },
+    {
+      "id": 5,
+      "image_id": 16,
+      "category_id": 0,
+      "bbox": [
+        280,
+        48,
+        16,
+        4
+      ],
+      "area": 64,
+      "iscrowd": 0
+    },
+    {
+      "id": 6,
+      "image_id": 16,
+      "category_id": 0,
+      "bbox": [
+        298,
+        48,
+        20,
+        4
+      ],
+      "area": 80,
+      "iscrowd": 0
+    },
+    {
+      "id": 7,
+      "image_id": 16,
+      "category_id": 0,
+      "bbox": [
+        320,
+        48,
+        24,
+        3
+      ],
+      "area": 72,
+      "iscrowd": 0
+    },
+    {
+      "id": 8,
+      "image_id": 16,
+      "category_id": 0,
+      "bbox": [
+        407,
+        56,
+        1,
+        1
+      ],
+      "area": 1,
+      "iscrowd": 0
+    },
+    {
+      "id": 9,
+      "image_id": 16,
+      "category_id": 0,
+      "bbox": [
+        349,
+        153,
+        1,
+        1
+      ],
+      "area": 1,
+      "iscrowd": 0
+    },
+    {
+      "id": 10,
+      "image_id": 16,
+      "category_id": 0,
+      "bbox": [
+        415,
+        152,
+        1,
+        2
+      ],
+      "area": 2,
+      "iscrowd": 0
+    }
+  ],
+  "categories": [
+    {
+      "id": 0,
+      "name": "Kanji"
+    }
+  ]
+}
